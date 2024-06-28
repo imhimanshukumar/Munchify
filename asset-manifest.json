@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Munchify/static/css/main.6d4eff95.css",
+    "main.js": "/Munchify/static/js/main.5a673c66.js",
+    "static/js/305.1e8ac83a.chunk.js": "/Munchify/static/js/305.1e8ac83a.chunk.js",
+    "index.html": "/Munchify/index.html",
+    "main.6d4eff95.css.map": "/Munchify/static/css/main.6d4eff95.css.map",
+    "main.5a673c66.js.map": "/Munchify/static/js/main.5a673c66.js.map",
+    "305.1e8ac83a.chunk.js.map": "/Munchify/static/js/305.1e8ac83a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4eff95.css",
+    "static/js/main.5a673c66.js"
+  ]
+}
